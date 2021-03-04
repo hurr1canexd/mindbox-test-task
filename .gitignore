@@ -1,0 +1,7 @@
+AreaCalculatorLibrary/.vs/
+AreaCalculatorLibrary/AreaCalculatorLibrary/bin/
+AreaCalculatorLibrary/AreaCalculatorLibrary/obj/
+AreaCalculatorLibrary/AreaCalculatorLibraryTests/bin/
+AreaCalculatorLibrary/AreaCalculatorLibraryTests/obj/
+*.sln
+*.csproj
