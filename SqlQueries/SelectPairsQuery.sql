@@ -1,4 +1,4 @@
--- ‚ыбор всех пар "€мЯ продукта - €мЯ категории"
+-- Р’С‹Р±РѕСЂ РІСЃРµС… РїР°СЂ "РРјСЏ РїСЂРѕРґСѓРєС‚Р° - РРјСЏ РєР°С‚РµРіРѕСЂРёРё"
 SELECT Product.ProductName, Category.CategoryName 
 FROM Product
 LEFT JOIN Category ON Product.CategoryId = Category.CategoryId;
